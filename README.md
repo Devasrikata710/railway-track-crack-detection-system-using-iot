@@ -65,7 +65,7 @@ Real-time monitoring for safety-critical applications
 TrackSafe highlights how simple embedded tech can make railway operations safer and smarter
 
 
-<img src="https://raw.github.com/Devasrikata710/railway-track-crack-detection-system-using-iot/main/1111.jpeg" width="500">
+<img src="https://raw.github.com/Devasrikata710/railway-track-crack-detection-system-using-iot/main/1111.jpeg" width="400">
 
 
 
