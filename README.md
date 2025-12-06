@@ -58,18 +58,14 @@ Steps:
 This project strengthened skills in:
 
 1.Embedded systems
-
 2.Sensor integration.
-
-
 3.GPS tracking
-
 4.IoT-based automation
-
 Real-time monitoring for safety-critical applications
-
 TrackSafe highlights how simple embedded tech can make railway operations safer and smarter
-<img src="https://raw.github.com/Devasrikata710/railway-track-crack-detection-system-using-iot/main/1111.jpeg" width="300">
+
+
+<img src="https://raw.github.com/Devasrikata710/railway-track-crack-detection-system-using-iot/main/1111.jpeg" width="500">
 
 
 
