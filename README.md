@@ -66,7 +66,7 @@ TrackSafe highlights how simple embedded tech can make railway operations safer 
 
 <div style="display: flex; gap: 20px; align-items: center;">
   <img src="https://github.com/Devasrikata710/railway-track-crack-detection-system-using-iot/blob/9b125709adf995b682475a05e7900c938e9dc329/1111.jpeg" width="400">
-    <img src="https://github.com/Devasrikata710/railway-track-crack-detection-system-using-iot/blob/54ab7e43aa07ed8ea02682be5ad870c24b056dce/2222.jpeg">
+    <img src="https://github.com/Devasrikata710/railway-track-crack-detection-system-using-iot/blob/54ab7e43aa07ed8ea02682be5ad870c24b056dce/2222.jpeg" width="400">
 </div>
 
 
