@@ -11,7 +11,7 @@ Stop when an obstacle is detected and resume when cleared.
 Send GPS-based alerts when cracks are found.Provide real-time monitoring via Bluetooth.
 The system moves along the tracks autonomously before a train arrives, ensuring safe and efficient inspection.
 
-🧠 How It Works
+🧠 How It Works:
 The device is placed on the track and starts moving automatically.Ultrasonic Sensor detects obstacles → stops movement until path is clear.IR Sensor checks for cracks or gaps in the rail.
 If a crack is detected:The GPS module records coordinates.A Bluetooth alert is sent for quick maintenance.System continues scanning until the inspection is complete.
 
